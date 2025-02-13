@@ -39,9 +39,9 @@ while booleano==True:
         print("5. Salir del programa")
         opp=int(input(":"))
         if opp==1:
-            nomn=int(input("Ingrese el nombre del usuario nuevo:"))
-            dicn=int(input("Ingrese la direccion del nuevo usuario:"))
-            infon=int(input("Ingrese la informacion de contacto del nuevo cliente:"))
+            nomn=(input("Ingrese el nombre del usuario nuevo:"))
+            dicn=(input("Ingrese la direccion del nuevo usuario:"))
+            infon=(input("Ingrese la informacion de contacto del nuevo cliente:"))
             clientes={
             "Nombre completo":nomn,
             "Direccion:":dicn,
