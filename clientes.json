@@ -1,11 +1,11 @@
-
 {
     "Nombre":"Sara Diaz",
     "Direccion:":"Cra 22 34-38",
     "Infomacion contacto":"",
     "Usuario":"",
-    "categoria":[
-        "Cliente nuevo"=true,
-        "Cliente regular"=false,
-        "Cliente leal"=false]
+    "categoria":{
+        "Cliente nuevo": true,
+        "Cliente regular": false,
+        "Cliente leal":false
+    }
 }

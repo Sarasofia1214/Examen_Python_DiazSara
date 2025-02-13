@@ -1,0 +1,18 @@
+[
+    "Fibra optica",
+    {
+        "Caracteristicas":"Buena, rapida",
+        "Precio:":100000,
+        "Tiempo":"10 años"
+    },
+    "Planes pospago",{
+        "Caracteristicas":"Buena, rapida",
+        "Precio:":100000,
+        "Tiempo":"10 años"
+    },
+    "Planes prepago",{
+        "Caracteristicas":"Buena, rapida",
+        "Precio:":100000,
+        "Tiempo":"10 años"
+    }
+]
