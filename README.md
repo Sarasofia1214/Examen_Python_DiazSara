@@ -14,11 +14,16 @@ En este repositorio se encuentran los arhivos usaos para la creacion de un progr
 Ingresa a Visual Code y podras poner a correr el codigo usando la extensión de Pytohn.-
 
 ### Explicación
-|-Clientes: En este archivo se evidencia el diccionario creado con los datos necesarios para tener a los clientes al dia.|
-|-Main: En este archivo se evidencia el programa principal que se pone a correr.|
-|-Moulos: Se encunetran los modulos encontrados en el main para hacer el codigo main menos extenso.|
-|-Quejas: Se encuentra el diccionario de los datos necesarios para las quejas de los clientes.|
-|-Servicios: Se encuentra el diccionario de los datos necesarios para los servicios brindados para los clientes.|
+-Clientes: En este archivo se evidencia el diccionario creado con los datos necesarios para tener a los clientes al dia.
+|--|--|
+-Main: En este archivo se evidencia el programa principal que se pone a correr.
+|--|--|
+-Moulos: Se encunetran los modulos encontrados en el main para hacer el codigo main menos extenso.
+|--|--|
+-Quejas: Se encuentra el diccionario de los datos necesarios para las quejas de los clientes.
+|--|--|
+-Servicios: Se encuentra el diccionario de los datos necesarios para los servicios brindados para los clientes.
+|--|--|
 
 
 
