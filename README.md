@@ -1,15 +1,14 @@
-# Ejercicios Python
-En este repositorio se encuentran carpetas con varios ejercicios sobre Pytohn realizados durante las clases.
+# Filtro Python
+En este repositorio se encuentran los arhivos usaos para la creacion de un programa para movistar que se enfrenta a varios desafíos en la gestión de sus servicios y la fidelización de sus clientes debido a la falta de un sistema integral de registro y seguimiento.
 
 ## Tabla de contenidos
 | Indice | Titulo  |
 |--|--|
-| Dia 1 |  https://github.com/Sarasofia1214/Python_S1_DiazSara/tree/master/Dia1 |
-| Dia 2 |  https://github.com/Sarasofia1214/Python_S1_DiazSara/tree/master/Dia2 |
-| Dia 3 |  https://github.com/Sarasofia1214/Python_S1_DiazSara/tree/master/Dia3 |
-| Dia 4 |  https://github.com/Sarasofia1214/Python_S1_DiazSara/tree/master/Dia4 | 
-| Dia 5 |  https://github.com/Sarasofia1214/Python_S1_DiazSara/tree/master/Dia5 |
-| Dia 6 |  https://github.com/Sarasofia1214/Python_S1_DiazSara/tree/master/Dia6 |
+| Clintes |  https://github.com/Sarasofia1214/Examen_Python_DiazSara/blob/master/clientes.json |
+| Main | https://github.com/Sarasofia1214/Examen_Python_DiazSara/blob/master/main.json |
+| Moulos |  https://github.com/Sarasofia1214/Examen_Python_DiazSara/blob/master/modulos.py |
+| Quejas |  https://github.com/Sarasofia1214/Examen_Python_DiazSara/blob/master/quejas.json | 
+| Servicios | https://github.com/Sarasofia1214/Examen_Python_DiazSara/blob/master/servicios.json |
 
 ### Instalaciones 
 Ingresa a Visual Code y podras poner a correr el codigo usando la extensión de Pytohn.-
